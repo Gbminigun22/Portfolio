@@ -33,7 +33,7 @@ After learning the basics of slicing softwares and setting up the printbed, I've
 I love RGB animations and whenever I approach a personal project, I always look for ways to incorporate these cool lighting effects. For my desktop setup, all the options I found online priced ridiculously high so I took it into my own hands to make something myself over winter break.
 Using my newly acquired 3D printer and some online searching, I found some CAD files online and edited them for my purpose to make a custom RGB wall decoration along with soldered rgb strips.
 
-<img class="thumbnailshadow" src="images/LED.JPG"/>
+![led_image](images/LED.JPG)
 
 ## My Workstation
 
