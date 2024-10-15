@@ -39,14 +39,14 @@ After learning the basics of SOLIDWORKS and various manufacturing methods, I bec
 
 We competed at and won two regional championships, and placed 2nd at the FRC World Championships. While it was a disappointing end to the season, I got a chance to develop and apply more of my technical skills.
 
-<img class="thumbnailshadow" src="images/2019.jpg"/>
+<img class="thumbnailshadow" src="images/2019.JPG"/>
 
 
 ### Offseason
 
 During the offseason, I worked on making a new custom gearbox with the new Falcon 500 motors that had been released. [(Technical Blog)](../../projects/pneumatic-shifting-gearbox)
 
-<img class="thumbnailshadow" src="images/offseason.jpg"/>
+<img class="thumbnailshadow" src="images/offseason.JPG"/>
 
 I also spent time at events competing on the pit crew and assisting the drive team, while also helping the team develop our first swerve drive robot 9254! We competed at Madtown Throwdown with our first Swerve robot which would come to be a step towards the new meta in FRC.
 
