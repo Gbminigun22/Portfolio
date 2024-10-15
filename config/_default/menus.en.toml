@@ -1,0 +1,109 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+# [[main]]
+#     name = "About Me"
+#     pageRef = "/"
+#     weight = 1
+
+[[main]]
+    name = "Projects"
+    pageRef = "projects"
+    weight = 2
+
+[[main]]
+    name = "Internships/Work"
+    pageRef = "internwork"
+    weight = 3
+
+[[main]]
+    name = "Tesla AI Robotics Intern"
+    parent = "Internships/Work"
+    pageRef = "tesla"
+    weight = 1
+
+[[main]]
+    name = "MIT Mechatronics Research Lab"
+    parent = "Internships/Work"
+    pageRef = "urop"
+    weight = 2
+
+[[main]]
+    name = "Australian Institute of Sport"
+    parent = "Internships/Work"
+    pageRef = "ais1"
+    weight = 3
+
+[[main]]
+    name = "Fulfil Systems Intern"
+    parent = "Internships/Work"
+    pageRef = "fulfil"
+    weight = 4
+
+[[main]]
+    name = "Student Teams"
+    pageRef = "teams"
+    weight = 4
+
+[[main]]
+    name = "MIT Motorsports"
+    parent = "Student Teams"
+    pageRef = "fsae"
+    weight = 1
+
+[[main]]
+    name = "Team 254"
+    parent = "Student Teams"
+    pageRef = "team254"
+    weight = 2
+
+[[main]]
+    name = "Hobbies"
+    pageRef = "hobbies"
+    weight = 5
+
+[[main]]
+    identifier = "email"
+    pre = "email"
+    url = "mailto:gblosen@mit.edu"
+    weight = 6
+
+#[[main]]
+#    identifier = "github"
+#    pre = "github"
+#    url = "https://github.com/GBminigun22"
+#    weight = 7
+
+[[main]]
+    identifier = "linkedin"
+    pre = "linkedin"
+    url = "https://www.linkedin.com/in/gblosen/"
+    weight = 8
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+  name = "About Me"
+  pageRef = "/"
+  weight = 1
+
+[[footer]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 2
+
+[[footer]]
+  name = "Hobbies"
+  pageRef = "hobbies"
+  weight = 5

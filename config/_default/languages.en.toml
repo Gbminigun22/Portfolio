@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Garrett Blosen"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "logo2.png"
+  secondaryLogo = "logo.png"
+  description = "Garrett's Portfolio"
+  copyright = "&copy; 2024 Garrett Blosen. All Rights Reserved."
+
+[author]
+  name = "Garrett Blosen"
+  image = "Profile.jpg"
+  headline = "MIT Class of 2025 | Ex-Tesla AI Robotics Intern"
+  bio = "Mechanical EECS Engineering Student at MIT"
+  links = [
+    { email = "mailto:gblosen@mit.edu" },
+    { github = "https://github.com/GBminigun22" },
+    { linkedin = "https://www.linkedin.com/in/gblosen/" },
+  ]
