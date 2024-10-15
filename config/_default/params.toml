@@ -48,7 +48,7 @@ defaultBackgroundImage = "pitcrew.jpg" # used as default for background images
 
 [article]
   showDate = true
-  showViews = true
+  showViews = false
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
