@@ -6,8 +6,8 @@ description: "2.671 project!"
 series_order: 3
 ---
 
-info about 2.671!
-info about 2.671!
-info about 2.671!
-info about 2.671!
-info about 2.671!
+## RGB Lights
+
+I love tinkering with rgb lights so I added indicators to tell whether the RC controller was connected, and the state the robot was in (autonomous or tele-operated).
+
+<img class="thumbnailshadow" src="images/rgb.png"/>
