@@ -7,4 +7,4 @@ summary: "Incoming Manufacturing Intern for Optimus"
 
 Looking forward to a great summer!
 
-<img class="thumbnailshadow" src="images/logo.JPG"/>
+<img class="thumbnailshadow" src="images/logo.jpg"/>

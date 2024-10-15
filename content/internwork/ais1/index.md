@@ -13,7 +13,7 @@ I worked on two projects during my time at the AIS and it has since been used to
 
 I worked on developing processes to analyze 3D Creaform scans for Olympic Rowing and Canoe Slalom. Creaform scanners project a coded pattern of LED lights and lasers to measure detailed surface geometries, and the goal was using scans of certain hulls to determine metrics that would be helpful to athletes and coaches.
 
-<img class="thumbnailshadow" src="images/creaform.JPG"/>
+<img class="thumbnailshadow" src="images/creaform.jpg"/>
 
 Since each boat hull is manufactured slightly differently, we wanted to see how different the same model of hull is and how it might affect athlete performance. To do this, Geomagic Control X, which is a professional metrology software, was used to extract certain metrics: length, draft, wetted length/width, wetted surface area, prismatic coefficient, waterplane area, block coefficient, and displaced volume.
 
@@ -23,7 +23,7 @@ Wetted surface area would cause differences in drag in the water and symmetry wo
 
 I also created a custom software integration of a computer vision basketball shot tracking system and Catapult GNSS/GPS player location tracking. This helped athletes track their shot location and accuracy to assist with analyzing and getting insights into their performance.
 
-<img class="thumbnailshadow" src="images/rspct.JPG"/>
+<img class="thumbnailshadow" src="images/rspct.jpg"/>
 
 RSPCT was a beta tracking system being used at the AIS, and more integrations were desired. It currently could record shooting sessions but player identification was desired to automate the data collection process.
 

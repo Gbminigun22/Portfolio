@@ -33,7 +33,7 @@ After learning the basics of slicing softwares and setting up the printbed, I've
 I love RGB animations and whenever I approach a personal project, I always look for ways to incorporate these cool lighting effects. For my desktop setup, all the options I found online priced ridiculously high so I took it into my own hands to make something myself over winter break.
 Using my newly acquired 3D printer and some online searching, I found some CAD files online and edited them for my purpose to make a custom RGB wall decoration along with soldered rgb strips.
 
-![led_image](images/LED.JPG)
+<img class="thumbnailshadow" src="images/LED.jpg"/>
 
 ## My Workstation
 
@@ -41,7 +41,7 @@ Using my newly acquired 3D printer and some online searching, I found some CAD f
 
 I've built a couple of computer rigs over the past couple years, but the one I currently use is a custom Mini-ITX tower that I designed to be able to easily bring back and forth to school in a carryon.
 
-![led_image](images/PC.JPG)
+<img class="thumbnailshadow" src="images/PC.jpg"/>
 
 Full Specs:
 <a href="https://pcpartpicker.com/list/prjxmD">PCPartPicker Part List</a>
@@ -89,11 +89,10 @@ Full Specs:
 During my quest to perfect my workstation which emerged from my time studying fro home due to covid, I got into the hobby of custom keyboards. I've modded 3 keyboards so far, and my favorite is my 75% GMMK Pro.
 
 I first started with the barebones aluminum CNC milled casing from Glorious:
-![led_image](images/keeb0.JPG)
+<img class="thumbnailshadow" src="images/keeb0.jpg"/>
 
 I then lubed the individual switches to get a nice smooth feeling with each keystroke before mounting them onto the keyboard PCB:
-![led_image](images/keeb1.JPG)
-
+<img class="thumbnailshadow" src="images/keeb1.jpg"/>
 
 Here's the final product!
-![led_image](images/keeb2.JPG)
+<img class="thumbnailshadow" src="images/keeb2.jpg"/>
