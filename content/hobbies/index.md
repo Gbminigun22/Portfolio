@@ -41,7 +41,7 @@ Using my newly acquired 3D printer and some online searching, I found some CAD f
 
 I've built a couple of computer rigs over the past couple years, but the one I currently use is a custom Mini-ITX tower that I designed to be able to easily bring back and forth to school in a carryon.
 
-<img class="thumbnailshadow" src="images/PC.JPG"/>
+![led_image](images/PC.JPG)
 
 Full Specs:
 <a href="https://pcpartpicker.com/list/prjxmD">PCPartPicker Part List</a>
@@ -89,10 +89,11 @@ Full Specs:
 During my quest to perfect my workstation which emerged from my time studying fro home due to covid, I got into the hobby of custom keyboards. I've modded 3 keyboards so far, and my favorite is my 75% GMMK Pro.
 
 I first started with the barebones aluminum CNC milled casing from Glorious:
-<img class="thumbnailshadow" src="images/keeb0.JPG"/>
+![led_image](images/keeb0.JPG)
 
 I then lubed the individual switches to get a nice smooth feeling with each keystroke before mounting them onto the keyboard PCB:
-<img class="thumbnailshadow" src="images/keeb1.JPG"/>
+![led_image](images/keeb1.JPG)
+
 
 Here's the final product!
-<img class="thumbnailshadow" src="images/keeb2.JPG"/>
+![led_image](images/keeb2.JPG)
