@@ -104,6 +104,16 @@
   weight = 2
 
 [[footer]]
+  name = "Internships/Work"
+  pageRef = "internwork"
+  weight = 3
+
+[[footer]]
+  name = "Student Teams"
+  pageRef = "teams"
+  weight = 4
+
+[[footer]]
   name = "Hobbies"
   pageRef = "hobbies"
   weight = 5

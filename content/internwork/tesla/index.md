@@ -1,6 +1,6 @@
 ---
 title: "Tesla AI Robotics Intern"
-date: 2023-09-30
+date: 2024-07-30
 draft: false
 summary: "Incoming Manufacturing Intern for Optimus"
 ---
