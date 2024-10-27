@@ -9,7 +9,7 @@ During my freshmen year summer I interned at a stealth startup in the bay area w
 
 ## Fulfil Solutions
 
-Inspired by the wave of online grocery commerce during COVID, Fulfil's motive is to solve problems in he world's food supply chain through a custom warehouse automation robotic system. I worked as a systems engineer in charge of integrating various technical aspects of the product and meeting deadlines for product demonstrations for investors. Due to the fast-paced work environment of the startup, I managed multiple projects and deadlines at once under supervision and guidance of my mentor Ty Ingram MIT '18.
+Inspired by the wave of online grocery commerce during COVID, Fulfil's motive is to solve problems in the world's food supply chain through a custom warehouse automation robotic system. I worked as a systems engineer in charge of integrating various technical aspects of the product and meeting deadlines for product demonstrations for investors. Due to the fast-paced work environment of the startup, I managed multiple projects and deadlines at once under supervision and guidance of my mentor Ty Ingram MIT '18.
 
 <img class="thumbnailshadow" src="images/diagram.png"/>
 
