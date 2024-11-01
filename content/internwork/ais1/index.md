@@ -23,7 +23,7 @@ Wetted surface area would cause differences in drag in the water and symmetry wo
 
 I also created a custom software integration of a computer vision basketball shot tracking system and Catapult GNSS/GPS player location tracking. This helped athletes track their shot location and accuracy to assist with analyzing and getting insights into their performance.
 
-<img class="thumbnailshadow" src="images/rspct.jpg"/>
+<img class="thumbnailshadow" src="images/rspct.JPG"/>
 
 RSPCT was a beta tracking system being used at the AIS, and more integrations were desired. It currently could record shooting sessions but player identification was desired to automate the data collection process.
 
