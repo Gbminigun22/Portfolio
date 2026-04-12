@@ -1,1 +1,1 @@
-I am an outgoing, dedicated individual who has a passion for applying my experience in robotics, mathematics, and computer science to building solutions that make the world a better place.
+I am an outgoing, dedicated individual who has a passion for applying my experience in robotics, mechanical engineering, and computer science to building solutions that make the world a better place.
