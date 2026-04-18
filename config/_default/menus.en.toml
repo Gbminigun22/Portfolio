@@ -32,13 +32,13 @@
     weight = 1
 
 [[main]]
-    name = "Tesla AI Robotics Intern"
+    name = "Tesla Optimus"
     parent = "Internships/Work"
     pageRef = "tesla"
     weight = 2
 
 [[main]]
-    name = "MIT Mechatronics Research Lab"
+    name = "MIT Mechatronics Lab"
     parent = "Internships/Work"
     pageRef = "urop"
     weight = 3
@@ -50,7 +50,7 @@
     weight = 4
 
 [[main]]
-    name = "Fulfil Systems Intern"
+    name = "Fulfil"
     parent = "Internships/Work"
     pageRef = "fulfil"
     weight = 5

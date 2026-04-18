@@ -1,8 +1,8 @@
 ---
-title: "MIT Mechatronics Research Lab"
+title: "MIT Mechatronics Lab"
 date: 2023-09-01
 draft: false
-summary: "Developing control strategies for electric motors using concepts from neural networks and symbolic regression in machine learning"
+summary: "Student Researcher: Motor Dyno + ML"
 ---
 PI: MIT Prof. Kamal Youcef Toumi
 

@@ -2,7 +2,7 @@
 title: "Australian Institute of Sport"
 date: 2023-05-30
 draft: false
-summary: "Python integration of Basketball shot tracking and player location"
+summary: "Research Engineer Intern: Vision + GPS"
 ---
 
 In the summer after my Sophomore year, I flew out to Canberra, Australia as an engineering research intern for the Australian Institute of Sport (AIS). The AIS engineering research department that I was working in develops technology and data analysis of athletes and their equipment to help athletes improve during training and competition.

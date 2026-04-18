@@ -2,7 +2,7 @@
 title: "Figure AI"
 date: 2025-07-21
 draft: false
-summary: "Design Engineer @ Figure AI"
+summary: "Design Engineer: Elbow + Shoulder"
 ---
 
 I've recently joined Figure AI as a Mechanical Design Engineer, working on bringing AI to the physical world to change how humans live their lives at scale.

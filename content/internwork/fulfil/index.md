@@ -1,8 +1,8 @@
 ---
-title: "Systems Engineer Intern"
+title: "Fulfil"
 date: 2022-05-30
 draft: false
-summary: "Systems Engineering internship working on a custom warehouse automation robotic system"
+summary: "Systems Engineer Intern: Prototype + Product bringup"
 ---
 
 During my freshmen year summer I interned at a stealth startup in the bay area which was my first time applying my skills in a professional environment working on really cool technology! Since then, Fulfil has left stealth mode and is actively working with large grocery corporations to implement their product.
