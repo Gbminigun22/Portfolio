@@ -7,7 +7,7 @@ summary: "Precision Desktop Lathe"
 
 {{< carousel images="{images/Spindle Drawing.jpg,images/Spindle Housing.jpg,images/spindle.jpg}" aspectRatio="16-9" >}}
 
-<video width="100%" controls>
+<video width="40%" controls>
   <source src="images/thermal camera.mov" type="video/mp4">
 </video>
 
