@@ -13,8 +13,6 @@ summary: "Precision Desktop Lathe"
 
 <img class="thumbnailshadow" src="images/Spindle Housing.jpg"/>
 
-<img class="thumbnailshadow" src="images/x drive bom.jpg"/>
-
 <img class="thumbnailshadow" src="images/BOM.jpg"/>
 
 <img class="thumbnailshadow" src="images/HTM work.jpg"/>
