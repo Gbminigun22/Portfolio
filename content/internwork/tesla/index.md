@@ -2,7 +2,7 @@
 title: "Tesla AI Robotics Intern"
 date: 2024-07-30
 draft: false
-summary: "Incoming Manufacturing Intern for Optimus"
+summary: "Systems Engineering Intern for Optimus"
 ---
 
 I recently had the incredible opportunity to intern at Tesla, where I worked on the Tesla Bot. The experience was both challenging and rewarding, with steep learning curves and exciting new projects to dive into every day. Collaborating with some of the brightest and most talented engineers in the industry was an absolute privilege, and I gained invaluable insights throughout the process.
